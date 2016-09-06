@@ -1,0 +1,28 @@
+\select@language {spanish}
+\contentsline {section}{INTRODUCCI\IeC {\'O}N}{4}
+\contentsline {section}{T\IeC {\'I}TULO Y DEFINICI\IeC {\'O}N DEL TEMA DE INVESTIGACI\IeC {\'O}N}{4}
+\contentsline {section}{ESTUDIO DEL PROBLEMA DE INVESTIGACI\IeC {\'O}N}{4}
+\contentsline {subsection}{Planteamiento del problema}{4}
+\contentsline {subsection}{Formulaci\IeC {\'o}n del Problema}{5}
+\contentsline {subsection}{Sistematizaci\IeC {\'o}n}{5}
+\contentsline {section}{OBJETIVOS DE LA INVESTIGACI\IeC {\'O}N}{6}
+\contentsline {subsection}{Objetivo general}{6}
+\contentsline {subsection}{Objetivos espec\IeC {\'\i }ficos}{6}
+\contentsline {section}{JUSTIFICACI\IeC {\'O}N DE LA INVESTIGACI\IeC {\'O}N}{7}
+\contentsline {subsection}{Justificaci\IeC {\'o}n pr\IeC {\'a}ctica}{7}
+\contentsline {section}{HIP\IeC {\'O}TESIS DE TRABAJO}{8}
+\contentsline {section}{MARCO DE REFERENCIA}{9}
+\contentsline {subsection}{Marco te\IeC {\'o}rico}{9}
+\contentsline {subsection}{Marco conceptual}{10}
+\contentsline {section}{ESTADO DEL ARTE}{13}
+\contentsline {subsection}{Epidemiologia }{13}
+\contentsline {subsection}{Diagnostico Y Pronostico}{15}
+\contentsline {subsection}{Tecnolog\IeC {\'\i }as m\IeC {\'o}viles en la salud}{15}
+\contentsline {section}{ASPECTOS METODOL\IeC {\'O}GICOS}{16}
+\contentsline {subsection}{Tipo de estudio descriptivo}{16}
+\contentsline {subsection}{M\IeC {\'e}todo de Investigaci\IeC {\'o}n}{17}
+\contentsline {subsection}{Fuentes y T\IeC {\'e}cnicas para la recolecci\IeC {\'o}n de la informaci\IeC {\'o}n}{18}
+\contentsline {subsection}{Tratamiento de la Informaci\IeC {\'o}n}{18}
+\contentsline {section}{Cronograma de Trabajo}{18}
+\contentsline {subsection}{Diagrama de Gant}{18}
+\contentsline {section}{Referencias}{19}
